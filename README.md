@@ -59,5 +59,6 @@ jobs:
 > Note: Avoid using `master` ref, prefer to pin the last release's SHA ref.
 
 ## Credits
-
+Credit to 
+Zadkiel <hello@zadkiel.fr and 
 All thanks goes to [`amannn`](https://github.com/amannn)'s [`semantic-pull-request`](https://github.com/amannn/action-semantic-pull-request) action.
