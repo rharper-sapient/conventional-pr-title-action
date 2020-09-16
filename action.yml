@@ -1,5 +1,5 @@
-name: conventional-pr-title
-author: Zadkiel <hello@zadkiel.fr>
+name: conventional-pr-title-alt
+author: Zer0touch <shocker@Zer0touch.co.uk>
 description: Ensure your PR title matches the Conventional Commits spec (https://www.conventionalcommits.org/).
 inputs:
   success-state:

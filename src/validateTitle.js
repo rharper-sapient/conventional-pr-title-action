@@ -1,5 +1,5 @@
 const parser = require('conventional-commits-parser').sync;
-const conventionalCommitTypes = require('conventional-commit-types');
+const conventionalCommitTypes = require('conventional-commit-types-alt');
 
 function isFunction(functionToCheck) {
   return functionToCheck && {}.toString.call(functionToCheck) === '[object Function]';
